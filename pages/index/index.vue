@@ -1,7 +1,7 @@
 <script lang="ts" setup>
 const { data } = await useAsyncData("subdomain", (ctx) => {
   const host: string = ctx.ssrContext.event.req.headers.host;
-  const subdomain: string = host.split(".")[0];
+  const subdomain: string = host.split(".")[2] ? host.split(".")[0] : "";
   return Promise.resolve(subdomain);
 });
 
