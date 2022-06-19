@@ -4,10 +4,10 @@ nuxt.in is a platform for learning and mastering Nuxt.js.
 
 ## Todo
 
-[x] Project Scafolding
-[ ] Project Structure
-[ ] Atomic Component
-[ ] Course Resouce
+- [x] Project Scafolding
+- [ ] Project Structure
+- [ ] Atomic Component
+- [ ] Course Resouce
 
 ## Setup
 
