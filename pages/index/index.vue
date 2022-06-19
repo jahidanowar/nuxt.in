@@ -6,7 +6,9 @@ const { data } = await useAsyncData("subdomain", (ctx) => {
 });
 
 useHead({
-  title: data ? `${data.value}'s Learning centre` : "Master Nuxt.js in Hindi",
+  title: data.value
+    ? `${data.value}'s Learning centre`
+    : "Master Nuxt.js in Hindi",
 });
 </script>
 <template>
