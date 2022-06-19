@@ -1,6 +1,13 @@
-# Nuxt 3 Minimal Starter
+# Master Nuxt.js - Learn Nuxt.js in Hindi
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+nuxt.in is a platform for learning and mastering Nuxt.js.
+
+## Todo
+
+[x] Project Scafolding
+[ ] Project Structure
+[ ] Atomic Component
+[ ] Course Resouce
 
 ## Setup
 
@@ -38,5 +45,3 @@ Locally preview production build:
 ```bash
 npm run preview
 ```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
