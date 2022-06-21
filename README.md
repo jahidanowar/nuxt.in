@@ -5,6 +5,7 @@ nuxt.in is a platform for learning and mastering Nuxt.js.
 ## Todo
 
 - [x] Project Scafolding
+- [ ] Landing page for ad testing
 - [ ] Project Structure
 - [ ] Atomic Component
 - [ ] Course Resouce
